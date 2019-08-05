@@ -27,4 +27,6 @@ public class LoginPageTest extends TestBase {
         loginPage.invalidlogIn();
         Assert.assertTrue(loginPage.alert.getText().contains("Wrong login/password"));
     }
+
+    //to check if I can push
 }

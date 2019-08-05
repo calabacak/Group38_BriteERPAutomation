@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9a7b067-6c67-484f-a1ef-2d3855f7ac7d" name="Default Changelist" comment="" />
+    <list default="true" id="f9a7b067-6c67-484f-a1ef-2d3855f7ac7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/BriteERP/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/BriteERP/utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/BriteERP/tests/CRMPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/BriteERP/tests/CRMPageTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +24,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/pages/CRMPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
+            <state relative-caret-position="600">
               <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -27,11 +33,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/tests/CRMPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1245">
-              <caret line="83" column="47" lean-forward="true" selection-start-line="83" selection-start-column="47" selection-end-line="83" selection-end-column="47" />
+            <state relative-caret-position="622">
+              <caret line="83" column="47" selection-start-line="83" selection-start-column="47" selection-end-line="83" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/tests/LoginPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/utilities/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/utilities/BrowserUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5164">
+              <caret line="345" selection-start-line="345" selection-end-line="345" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,6 +90,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -58,9 +103,9 @@
         <option value="$PROJECT_DIR$/configuration.properties" />
         <option value="$PROJECT_DIR$/src/test/java/com/BriteERP/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/BriteERP/tests/LoginPageTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/BriteERP/utilities/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/BriteERP/pages/CRMPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/BriteERP/tests/CRMPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/BriteERP/utilities/TestBase.java" />
       </list>
     </option>
   </component>
@@ -72,10 +117,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1" />
+    <option name="x" value="1280" />
     <option name="y" value="23" />
-    <option name="width" value="1283" />
-    <option name="height" value="728" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -86,57 +131,47 @@
         <subPane>
           <expand>
             <path>
-              <item name="BriteEPautomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteEPautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Group38_BriteERPAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group38_BriteERPAutomation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteEPautomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteEPautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Group38_BriteERPAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group38_BriteERPAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteEPautomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteEPautomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BriteEPautomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteEPautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Group38_BriteERPAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group38_BriteERPAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteEPautomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteEPautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Group38_BriteERPAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group38_BriteERPAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteEPautomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteEPautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Group38_BriteERPAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group38_BriteERPAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="BriteERP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteEPautomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteEPautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Group38_BriteERPAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group38_BriteERPAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="BriteERP" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteEPautomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteEPautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Group38_BriteERPAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group38_BriteERPAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -145,14 +180,55 @@
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteEPautomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteEPautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Group38_BriteERPAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group38_BriteERPAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="BriteERP" type="462c0819:PsiDirectoryNode" />
               <item name="utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group38_BriteERPAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group38_BriteERPAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group38_BriteERPAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group38_BriteERPAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group38_BriteERPAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group38_BriteERPAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group38_BriteERPAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group38_BriteERPAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group38_BriteERPAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group38_BriteERPAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="BriteERP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group38_BriteERPAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group38_BriteERPAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="BriteERP" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,6 +237,9 @@
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -174,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.CRMPageTest.checkSumOfPivot">
+  <component name="RunManager" selected="TestNG.LoginPageTest.positiveUsernameAndPasswordTest">
     <configuration name="CRMPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BriteEPautomation" />
       <extension name="coverage">
@@ -210,6 +289,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CRMPageTest.checkSumOfPivot (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Group38_BriteERPAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.BriteERP.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.BriteERP.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.BriteERP.tests.CRMPageTest" />
+      <option name="METHOD_NAME" value="checkSumOfPivot" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CRMPageTest.checkSumOfPivot" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BriteEPautomation" />
       <extension name="coverage">
@@ -228,26 +325,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginPageTest.negativeUsernameAndPasswordTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BriteEPautomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.BriteERP.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.BriteERP.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.BriteERP.tests.LoginPageTest" />
-      <option name="METHOD_NAME" value="negativeUsernameAndPasswordTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LoginPageTest.positiveUsernameAndPasswordTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BriteEPautomation" />
+      <module name="Group38_BriteERPAutomation" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.BriteERP.tests.*" />
@@ -266,11 +345,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LoginPageTest.positiveUsernameAndPasswordTest" />
+        <item itemvalue="TestNG.CRMPageTest.checkSumOfPivot (1)" />
         <item itemvalue="TestNG.CRMPageTest.checkSumOfPivot" />
         <item itemvalue="TestNG.CRMPageTest.checkItemPrice" />
         <item itemvalue="TestNG.CRMPageTest" />
-        <item itemvalue="TestNG.LoginPageTest.negativeUsernameAndPasswordTest" />
-        <item itemvalue="TestNG.LoginPageTest.positiveUsernameAndPasswordTest" />
       </list>
     </recent_temporary>
   </component>
@@ -288,15 +367,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CRMPageTest_checkItemPrice - 2019.08.05 at 11h 25m 08s.xml">
-      <configuration name="CRMPageTest.checkItemPrice" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CRMPageTest_checkItemPrice - 2019.08.05 at 11h 34m 12s.xml">
-      <configuration name="CRMPageTest.checkItemPrice" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CRMPageTest_checkSumOfPivot - 2019.08.05 at 11h 45m 06s.xml">
-      <configuration name="CRMPageTest.checkSumOfPivot" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="CRMPageTest_checkSumOfPivot - 2019.08.05 at 11h 46m 02s.xml">
       <configuration name="CRMPageTest.checkSumOfPivot" configurationId="TestNG" />
     </history-entry>
@@ -318,12 +388,21 @@
     <history-entry file="CRMPageTest_checkSumOfPivot - 2019.08.05 at 12h 14m 58s.xml">
       <configuration name="CRMPageTest.checkSumOfPivot" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="CRMPageTest_checkSumOfPivot_(1) - 2019.08.05 at 13h 10m 34s.xml">
+      <configuration name="CRMPageTest.checkSumOfPivot (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginPageTest_positiveUsernameAndPasswordTest - 2019.08.05 at 14h 34m 12s.xml">
+      <configuration name="LoginPageTest.positiveUsernameAndPasswordTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginPageTest_positiveUsernameAndPasswordTest - 2019.08.05 at 14h 47m 05s.xml">
+      <configuration name="LoginPageTest.positiveUsernameAndPasswordTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="1283" height="728" extended-state="6" />
+    <frame x="1280" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10717163" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36794463" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -332,7 +411,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.04893964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.04883227" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -352,16 +431,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/utilities/BrowserUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5175">
-          <caret line="345" selection-start-line="345" selection-end-line="345" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="443">
@@ -406,29 +475,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/tests/LoginPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/utilities/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/pages/CRMPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
+        <state relative-caret-position="600">
           <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -438,8 +487,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/tests/CRMPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1245">
-          <caret line="83" column="47" lean-forward="true" selection-start-line="83" selection-start-column="47" selection-end-line="83" selection-end-column="47" />
+        <state relative-caret-position="622">
+          <caret line="83" column="47" selection-start-line="83" selection-start-column="47" selection-end-line="83" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/tests/LoginPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/utilities/BrowserUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5164">
+          <caret line="345" selection-start-line="345" selection-end-line="345" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/utilities/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -37,6 +37,6 @@ public class TestBase {
 
     @AfterMethod
     public void tearDownMethod(ITestResult result) throws InterruptedException, IOException {
-       //Driver.closeDriver();
+       Driver.closeDriver();
     }
 }
